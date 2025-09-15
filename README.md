@@ -15,3 +15,8 @@ SwiftUI로 구현한 인터랙티브 UI 모음집
 |:--|
 |https://www.youtube.com/watch?v=_uz-fez-kcs|
 |![Simulator Screen Recording - iPhone 16 Pro - 2025-07-29 at 22 09 31](https://github.com/user-attachments/assets/a7bac7ad-11b3-44b6-8fe1-b4b56c45ce7d)|
+
+|Infinite Looping ScrollView (iOS17+)|
+|:--|
+|https://youtu.be/lyuo59840qs?si=C7XYm3jhmBInm0pO|
+|![Simulator Screen Recording - iPhone 16 - 2025-09-15 at 23 05 49](https://github.com/user-attachments/assets/3f2192ec-3fb1-41c7-ad99-40d68975d36c)|
